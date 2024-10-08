@@ -1,0 +1,119 @@
+li{
+    word-wrap: break-word;
+}
+
+#t{
+    position: fixed;
+    top: 92%;
+    width: 100%;
+    height: 2.5rem;
+}
+
+#troom{
+    position: fixed;
+    top: 0%;
+    width: 20%;
+    height: 2.5rem;
+}
+
+#tname{
+    position: fixed;
+    top: 0%;
+    right: 0%;
+    width: 20%;
+    height: 2.5rem;
+}
+
+.message-item{
+    background-color: #6e6e6e;
+    padding: 1rem;
+    padding-left: 1rem;
+    border-radius: 0.5rem;
+    margin-bottom: 1rem;
+    margin-right: 1rem;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #FFF5E1;
+}
+.noti-message-item{
+    text-align: center;
+    background-color: #ffffff00;
+    padding-left: 1rem;
+    margin-bottom: 1rem;
+    margin-right: 1rem;
+    font-size: 1rem;
+    font-weight:normal;
+    color: #000000;
+}
+
+body{
+    background-color: #ffffff;
+    color: #FFF5E1;
+    height: 100%;
+    padding-bottom: 3rem;
+}
+
+#logo{
+    color: #6e6e6e;
+}
+
+#subbut{
+    background-color: #6e6e6e;
+    border: 0;
+    border-radius:10px;
+    height: 100%;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #FFF5E1;
+}
+
+/* #inputf{
+    background-color: #f6f6f6;
+    border: 0;
+    outline: none;
+    border-radius:10px;
+    height: 100%;
+    padding-left: 1rem;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #6e6e6e; ;
+}
+
+#inputroom{
+    background-color: #f6f6f6;
+    border: 0;
+    outline: none;
+    border-radius:10px;
+    height: 100%;
+    padding-left: 1rem;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #6e6e6e; ;
+    text-align: center;
+} */
+
+.inputtextmain{
+    background-color: #f6f6f6;
+    border: 0;
+    outline: none;
+    border-radius:10px;
+    height: 100%;
+    padding-left: 1rem;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #6e6e6e; ;
+    text-align: left;
+}
+
+.inputtextmainc{
+    background-color: #f6f6f6;
+    border: 0;
+    outline: none;
+    border-radius:10px;
+    height: 100%;
+    padding-left: 1rem;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #6e6e6e; ;
+    text-align: center;
+}
